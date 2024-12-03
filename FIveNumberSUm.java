@@ -1,4 +1,3 @@
-package programs;
 
 public class FIveNumberSUm {
     public static void main(String args[])

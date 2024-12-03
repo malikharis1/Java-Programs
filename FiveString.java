@@ -1,4 +1,3 @@
-package programs;
 public class FiveString{
     public static void main(String[] args)
     {
